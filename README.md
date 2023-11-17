@@ -1,5 +1,5 @@
-# web-scraping
-web scraping to Full Stack Developer Internship
+# Amazon-asin
+amazon asin to Full Stack Developer Internship
 
 ## Instructions
 
